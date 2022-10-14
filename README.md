@@ -1,4 +1,4 @@
-# somai
+# SOMAi
 
 A new Flutter project.
 
